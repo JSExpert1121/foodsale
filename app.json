@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "com.aifood.foodsale",
+    "slug": "com.aifood.foodsale",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "cover",
+      "backgroundColor": "#000000",
+      "image": "./assets/images/dashboard1.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "isDetached": false,
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "家食客",
+  "name": "com.aifood.foodsale"
+}
