@@ -1,6 +1,6 @@
 # Food Booking App
 
-#### Written by react-native
+#### Written using react-native
 
 ## Features
 
